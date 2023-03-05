@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cambio Bonus - Klasse S",
+    "pricePerHour": 1.95,
+    "maxPrice24Hours": 23,
+    "priceLessThan100Kms": 0.28,
+    "price100To200Kms": 0.24,
+    "priceMoreThan200Kms": 0.24
+  },
+  {
+    "name": "Cambio Bonus - Klasse M",
+    "pricePerHour": 2.3,
+    "maxPrice24Hours": 27.5,
+    "priceLessThan100Kms": 0.29,
+    "price100To200Kms": 0.25,
+    "priceMoreThan200Kms": 0.25
+  },
+  {
+    "name": "Cambio Bonus - Klasse L",
+    "pricePerHour": 2.7,
+    "maxPrice24Hours": 32,
+    "priceLessThan100Kms": 0.35,
+    "price100To200Kms": 0.25,
+    "priceMoreThan200Kms": 0.25
+  },
+  {
+    "name": "Cambio Bonus - Klasse XL",
+    "pricePerHour": 3.9,
+    "maxPrice24Hours": 38.5,
+    "priceLessThan100Kms": 0.4,
+    "price100To200Kms": 0.29,
+    "priceMoreThan200Kms": 0.29
+  },
+  {
+    "name": "Degage - Klasse A",
+    "pricePerHour": 0,
+    "maxPrice24Hours": 0,
+    "priceLessThan100Kms": 0.36,
+    "price100To200Kms": 0.32,
+    "priceMoreThan200Kms": 0.28
+  },
+  {
+    "name": "Degage - Klasse B",
+    "pricePerHour": 0,
+    "maxPrice24Hours": 0,
+    "priceLessThan100Kms": 0.44,
+    "price100To200Kms": 0.40,
+    "priceMoreThan200Kms": 0.36
+  }
+]
